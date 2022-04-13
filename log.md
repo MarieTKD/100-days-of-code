@@ -13,18 +13,26 @@
 Michael Nielsen book: http://neuralnetworksanddeeplearning.com/
 
 
-### Day 2: 
+### Day 2: April, Monday 11 2022
+**Today's Progress**: Started the second video on Neural Network 
+
+**Thoughts** I like the linear algebra part
+
+**Link(s) to work** https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2
+
+
+### Day 3: April, Tuesday 12 2022
+**Today's Progress**: Watched video 3 3b1b and started to read/follow Fast AI course on Deep Learning
+
+**Thoughts** The FastAI course/book looks very interesting with commentaries from people with different backgrounds
+
+**Link(s) to work** Course: https://course.fast.ai/videos/?lesson=1
+        Book: https://github.com/fastai/fastbook/blob/master/01_intro.ipynb
+
+
+### Day 4: 
 **Today's Progress**: 
 
 **Thoughts** 
 
 **Link(s) to work**
-
-
-### Day 3: 
-**Today's Progress**: 
-
-**Thoughts** 
-
-**Link(s) to work**
-
