@@ -30,7 +30,15 @@ Michael Nielsen book: http://neuralnetworksanddeeplearning.com/
         Book: https://github.com/fastai/fastbook/blob/master/01_intro.ipynb
 
 
-### Day 4: 
+### Day 4: April, Wednesday 13 2022
+**Today's Progress**: Started FastAI Jupiter Notebook - ran a first classifier
+
+**Thoughts** The codes don't work very well. Tried on Windows and Ubuntu, seems to be the same. Frustrating!
+
+**Link(s) to work**
+
+
+### Day 5: 
 **Today's Progress**: 
 
 **Thoughts** 
